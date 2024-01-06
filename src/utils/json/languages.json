@@ -1,0 +1,69 @@
+{
+    "languages": [
+      {
+        "name": "English",
+        "emoji": "🇺🇸"
+      },
+      {
+        "name": "Spanish",
+        "emoji": "🇪🇸"
+      },
+      {
+        "name": "French",
+        "emoji": "🇫🇷"
+      },
+      {
+        "name": "German",
+        "emoji": "🇩🇪"
+      },
+      {
+        "name": "Italian",
+        "emoji": "🇮🇹"
+      },
+      {
+        "name": "Portuguese",
+        "emoji": "🇵🇹"
+      },
+      {
+        "name": "Dutch",
+        "emoji": "🇳🇱"
+      },
+      {
+        "name": "Russian",
+        "emoji": "🇷🇺"
+      },
+      {
+        "name": "Chinese (Simplified)",
+        "emoji": "🇨🇳"
+      },
+      {
+        "name": "Chinese (Traditional)",
+        "emoji": "🇹🇼"
+      },
+      {
+        "name": "Japanese",
+        "emoji": "🇯🇵"
+      },
+      {
+        "name": "Korean",
+        "emoji": "🇰🇷"
+      },
+      {
+        "name": "Arabic",
+        "emoji": "🇦🇪"
+      },
+      {
+        "name": "Hindi",
+        "emoji": "🇮🇳"
+      },
+      {
+        "name": "Turkish",
+        "emoji": "🇹🇷"
+      },
+      {
+        "name": "Swedish",
+        "emoji": "🇸🇪"
+      }
+    ]
+  }
+  

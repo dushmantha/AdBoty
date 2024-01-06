@@ -1,0 +1,1371 @@
+
+  {
+    "categories": [
+      {
+        "name": "Electronics",
+        "id": "cat_electronics",
+        "subcategories": [
+          {
+            "name": "Smartphones",
+            "id": "subcat_smartphones",
+            "brands": [
+                  {
+                    "name": "Apple",
+                    "popular_models": [   "iPhone 13 Pro Max",
+                    "iPhone 13 Pro",
+                    "iPhone 13 Mini",
+                    "iPhone 13",
+                    "iPhone 12 Pro Max",
+                    "iPhone 12 Pro",
+                    "iPhone 12 Mini",
+                    "iPhone 12",
+                    "iPhone SE (2nd generation)",
+                    "iPhone 11 Pro Max",
+                    "iPhone 11 Pro",
+                    "iPhone 11",
+                    "iPhone XS Max",
+                    "iPhone XS",
+                    "iPhone XR",
+                    "iPhone X",
+                    "iPhone 8 Plus",
+                    "iPhone 8",
+                    "iPhone 7 Plus",
+                    "iPhone 7",
+                    "iPad Pro (5th generation)",
+                    "iPad Air (4th generation)",
+                    "iPad (9th generation)",
+                    "iPad mini (6th generation)",
+                    "iPad Pro (4th generation)",
+                    "iPad Air (3rd generation)",
+                    "MacBook Pro 16-inch",
+                    "MacBook Pro 13-inch (M1)",
+                    "MacBook Air (M1)",
+                    "MacBook Pro 13-inch (Intel)",
+                    "Apple Watch Series 7",
+                    "Apple Watch SE",
+                    "Apple Watch Series 6",
+                    "Apple Watch Series 3"]
+                  },
+                  {
+                    "name": "Samsung",
+                    "popular_models": ["Galaxy S21", "Galaxy Note 20", "Galaxy A52", "Galaxy Z Fold 3"]
+                  },
+                  {
+                    "name": "Huawei",
+                    "popular_models": ["Huawei P40 Pro", "Huawei Mate 40", "Huawei Nova 8", "Huawei Enjoy 20"]
+                  },
+                  {
+                    "name": "Xiaomi",
+                    "popular_models": ["Xiaomi Mi 11", "Redmi Note 10", "Xiaomi Mi 10T", "Poco X3"]
+                  },
+                  {
+                    "name": "Oppo",
+                    "popular_models": ["Oppo Reno 6 Pro", "Oppo Find X3 Pro", "Oppo A54", "Oppo F19"]
+                  },
+                  {
+                    "name": "Vivo",
+                    "popular_models": ["Vivo V21", "Vivo X60 Pro", "Vivo Y73", "Vivo S1"]
+                  },
+                  {
+                    "name": "OnePlus",
+                    "popular_models": ["OnePlus 9 Pro", "OnePlus Nord CE", "OnePlus 8T", "OnePlus 9R"]
+                  },
+                  {
+                    "name": "Google",
+                    "popular_models": ["Google Pixel 5", "Google Pixel 4a", "Google Pixel 4", "Google Pixel 3a"]
+                  },
+                  {
+                    "name": "Sony",
+                    "popular_models": ["Sony Xperia 1 III", "Sony Xperia 5 II", "Sony Xperia 10 III", "Sony Xperia L4"]
+                  },
+                  {
+                    "name": "LG",
+                    "popular_models": ["LG Velvet", "LG Wing", "LG Stylo 7", "LG K92"]
+                  }
+                ] 
+          },
+          {
+            "name": "Laptops",
+            "id": "subcat_laptops"
+          },
+          {
+            "name": "Tablets",
+            "id": "subcat_tablets"
+          },
+          {
+            "name": "Cameras",
+            "id": "subcat_cameras"
+          },
+          {
+            "name": "TVs",
+            "id": "subcat_tvs"
+          },
+          {
+            "name": "Headphones",
+            "id": "subcat_headphones"
+          },
+          {
+            "name": "Gaming Consoles",
+            "id": "subcat_gaming_consoles"
+          },
+          {
+            "name": "Smartwatches",
+            "id": "subcat_smartwatches"
+          },
+          {
+            "name": "Home Appliances",
+            "id": "subcat_home_appliances"
+          },
+          {
+            "name": "Printers",
+            "id": "subcat_printers"
+          },
+          {
+            "name": "Monitors",
+            "id": "subcat_monitors"
+          },
+          {
+            "name": "Speakers",
+            "id": "subcat_speakers"
+          },
+          {
+            "name": "Drones",
+            "id": "subcat_drones"
+          },
+          {
+            "name": "Wearable Devices",
+            "id": "subcat_wearable_devices"
+          },
+          {
+            "name": "Projectors",
+            "id": "subcat_projectors"
+          },
+          {
+            "name": "Computer Accessories",
+            "id": "subcat_computer_accessories"
+          },
+          {
+            "name": "Audio Accessories",
+            "id": "subcat_audio_accessories"
+          },
+          {
+            "name": "Mobile Accessories",
+            "id": "subcat_mobile_accessories"
+          },
+          {
+            "name": "Camera Accessories",
+            "id": "subcat_camera_accessories"
+          },
+          {
+            "name": "Gaming Accessories",
+            "id": "subcat_gaming_accessories"
+          }
+        ]
+      },
+      {
+        "name": "Fashion",
+        "id": "cat_fashion",
+        "subcategories": [
+          {
+            "name": "Clothing",
+            "id": "subcat_clothing"
+          },
+          {
+            "name": "Shoes",
+            "id": "subcat_shoes"
+          },
+          {
+            "name": "Accessories",
+            "id": "subcat_accessories"
+          },
+          {
+            "name": "Jewelry",
+            "id": "subcat_jewelry"
+          },
+          {
+            "name": "Watches",
+            "id": "subcat_watches"
+          },
+          {
+            "name": "Bags",
+            "id": "subcat_bags"
+          },
+          {
+            "name": "Sunglasses",
+            "id": "subcat_sunglasses"
+          },
+          {
+            "name": "Hats",
+            "id": "subcat_hats"
+          },
+          {
+            "name": "Scarves",
+            "id": "subcat_scarves"
+          },
+          {
+            "name": "Belts",
+            "id": "subcat_belts"
+          },
+          {
+            "name": "Tops",
+            "id": "subcat_tops"
+          },
+          {
+            "name": "Bottoms",
+            "id": "subcat_bottoms"
+          },
+          {
+            "name": "Dresses",
+            "id": "subcat_dresses"
+          },
+          {
+            "name": "Sneakers",
+            "id": "subcat_sneakers"
+          },
+          {
+            "name": "Earrings",
+            "id": "subcat_earrings"
+          },
+          {
+            "name": "Bracelets",
+            "id": "subcat_bracelets"
+          },
+          {
+            "name": "Necklaces",
+            "id": "subcat_necklaces"
+          },
+          {
+            "name": "Rings",
+            "id": "subcat_rings"
+          },
+          {
+            "name": "Handbags",
+            "id": "subcat_handbags"
+          },
+          {
+            "name": "Ties",
+            "id": "subcat_ties"
+          }
+        ]
+      },
+      {
+        "name": "Home & Garden",
+        "id": "cat_home_and_garden",
+        "subcategories": [
+          {
+            "name": "Furniture",
+            "id": "subcat_furniture"
+          },
+          {
+            "name": "Appliances",
+            "id": "subcat_appliances"
+          },
+          {
+            "name": "Kitchenware",
+            "id": "subcat_kitchenware"
+          },
+          {
+            "name": "Home Decor",
+            "id": "subcat_home_decor"
+          },
+          {
+            "name": "Bedding & Linens",
+            "id": "subcat_bedding_and_linens"
+          },
+          {
+            "name": "Lighting",
+            "id": "subcat_lighting"
+          },
+          {
+            "name": "Gardening Tools",
+            "id": "subcat_gardening_tools"
+          },
+          {
+            "name": "DIY & Tools",
+            "id": "subcat_diy_and_tools"
+          },
+          {
+            "name": "Cleaning Supplies",
+            "id": "subcat_cleaning_supplies"
+          },
+          {
+            "name": "Home Improvement Services",
+            "id": "subcat_home_improvement_services"
+          },
+          {
+            "name": "Sofas",
+            "id": "subcat_sofas"
+          },
+          {
+            "name": "Dining Tables",
+            "id": "subcat_dining_tables"
+          },
+          {
+            "name": "Cookware",
+            "id": "subcat_cookware"
+          },
+          {
+            "name": "Wall Art",
+            "id": "subcat_wall_art"
+          },
+          {
+            "name": "Pillows",
+            "id": "subcat_pillows"
+          },
+          {
+            "name": "Lamps",
+            "id": "subcat_lamps"
+          },
+          {
+            "name": "Lawn Mowers",
+            "id": "subcat_lawn_mowers"
+          },
+          {
+            "name": "Power Tools",
+            "id": "subcat_power_tools"
+          },
+          {
+            "name": "Vacuum Cleaners",
+            "id": "subcat_vacuum_cleaners"
+          },
+          {
+            "name": "Interior Design Services",
+            "id": "subcat_interior_design_services"
+          }
+        ]
+      },
+      {
+        "name": "Vehicles",
+        "id": "cat_vehicles",
+        "subcategories": [
+          {
+            "name": "Cars",
+            "id": "subcat_cars"
+          },
+          {
+            "name": "Motorcycles",
+            "id": "subcat_motorcycles"
+          },
+          {
+            "name": "Trucks & Vans",
+            "id": "subcat_trucks_and_vans"
+          },
+          {
+            "name": "Boats",
+            "id": "subcat_boats"
+          },
+          {
+            "name": "RVs & Campers",
+            "id": "subcat_rvs_and_campers"
+          },
+          {
+            "name": "Car Parts & Accessories",
+            "id": "subcat_car_parts_and_accessories"
+          },
+          {
+            "name": "Bicycles",
+            "id": "subcat_bicycles"
+          },
+          {
+            "name": "Scooters",
+            "id": "subcat_scooters"
+          },
+          {
+            "name": "ATVs & UTVs",
+            "id": "subcat_atvs_and_utvs"
+          },
+          {
+            "name": "Car Rental Services",
+            "id": "subcat_car_rental_services"
+          },
+          {
+            "name": "Electric Cars",
+            "id": "subcat_electric_cars"
+          },
+          {
+            "name": "Motorcycle Helmets",
+            "id": "subcat_motorcycle_helmets"
+          },
+          {
+            "name": "Truck Accessories",
+            "id": "subcat_truck_accessories"
+          },
+          {
+            "name": "Boat Trailers",
+            "id": "subcat_boat_trailers"
+          },
+          {
+            "name": "RV Accessories",
+            "id": "subcat_rv_accessories"
+          },
+          {
+            "name": "Car Batteries",
+            "id": "subcat_car_batteries"
+          },
+          {
+            "name": "Bike Accessories",
+            "id": "subcat_bike_accessories"
+          },
+          {
+            "name": "Scooter Helmets",
+            "id": "subcat_scooter_helmets"
+          },
+          {
+            "name": "ATV Parts",
+            "id": "subcat_atv_parts"
+          },
+          {
+            "name": "Car Repair Services",
+            "id": "subcat_car_repair_services"
+          }
+        ]
+      },
+      {
+        "name": "Sports & Outdoors",
+        "id": "cat_sports_and_outdoors",
+        "subcategories": [
+          {
+            "name": "Fitness Equipment",
+            "id": "subcat_fitness_equipment"
+          },
+          {
+            "name": "Camping Gear",
+            "id": "subcat_camping_gear"
+          },
+          {
+            "name": "Sports Gear",
+            "id": "subcat_sports_gear"
+          },
+          {
+            "name": "Bicycles",
+            "id": "subcat_bicycles"
+          },
+          {
+            "name": "Fishing Gear",
+            "id": "subcat_fishing_gear"
+          },
+          {
+            "name": "Hiking & Outdoor Shoes",
+            "id": "subcat_hiking_and_outdoor_shoes"
+          },
+          {
+            "name": "Golf Equipment",
+            "id": "subcat_golf_equipment"
+          },
+          {
+            "name": "Yoga & Pilates Gear",
+            "id": "subcat_yoga_and_pilates_gear"
+          },
+          {
+            "name": "Sports Clothing",
+            "id": "subcat_sports_clothing"
+          },
+          {
+            "name": "Water Sports Equipment",
+            "id": "subcat_water_sports_equipment"
+          },
+          {
+            "name": "Treadmills",
+            "id": "subcat_treadmills"
+          },
+          {
+            "name": "Tents",
+            "id": "subcat_tents"
+          },
+          {
+            "name": "Yoga Mats",
+            "id": "subcat_yoga_mats"
+          },
+          {
+            "name": "Fishing Rods",
+            "id": "subcat_fishing_rods"
+          },
+          {
+            "name": "Hiking Boots",
+            "id": "subcat_hiking_boots"
+          },
+          {
+            "name": "Golf Clubs",
+            "id": "subcat_golf_clubs"
+          },
+          {
+            "name": "Pilates Balls",
+            "id": "subcat_pilates_balls"
+          },
+          {
+            "name": "Running Shorts",
+            "id": "subcat_running_shorts"
+          },
+          {
+            "name": "Kayaks",
+            "id": "subcat_kayaks"
+          },
+          {
+            "name": "Swimwear",
+            "id": "subcat_swimwear"
+          }
+        ]
+      },
+      {
+        "name": "Books & Magazines",
+        "id": "cat_books_and_magazines",
+        "subcategories": [
+          {
+            "name": "Fiction Books",
+            "id": "subcat_fiction_books"
+          },
+          {
+            "name": "Non-fiction Books",
+            "id": "subcat_non_fiction_books"
+          },
+          {
+            "name": "Magazines",
+            "id": "subcat_magazines"
+          },
+          {
+            "name": "Comics & Graphic Novels",
+            "id": "subcat_comics_and_graphic_novels"
+          },
+          {
+            "name": "Educational Books",
+            "id": "subcat_educational_books"
+          },
+          {
+            "name": "Children's Books",
+            "id": "subcat_childrens_books"
+          },
+          {
+            "name": "Self-Help Books",
+            "id": "subcat_self_help_books"
+          },
+          {
+            "name": "Cookbooks",
+            "id": "subcat_cookbooks"
+          },
+          {
+            "name": "Travel Guides",
+            "id": "subcat_travel_guides"
+          },
+          {
+            "name": "Poetry Books",
+            "id": "subcat_poetry_books"
+          },
+          {
+            "name": "Romance Novels",
+            "id": "subcat_romance_novels"
+          },
+          {
+            "name": "Biographies",
+            "id": "subcat_biographies"
+          },
+          {
+            "name": "Art Magazines",
+            "id": "subcat_art_magazines"
+          },
+          {
+            "name": "Comic Book Collections",
+            "id": "subcat_comic_book_collections"
+          },
+          {
+            "name": "Math Textbooks",
+            "id": "subcat_math_textbooks"
+          },
+          {
+            "name": "Children's Picture Books",
+            "id": "subcat_childrens_picture_books"
+          },
+          {
+            "name": "Motivational Books",
+            "id": "subcat_motivational_books"
+          },
+          {
+            "name": "Healthy Cooking Books",
+            "id": "subcat_healthy_cooking_books"
+          },
+          {
+            "name": "Adventure Travel Guides",
+            "id": "subcat_adventure_travel_guides"
+          },
+          {
+            "name": "Haiku Poetry Books",
+            "id": "subcat_haiku_poetry_books"
+          }
+        ]
+      },
+      {
+        "name": "Beauty & Personal Care",
+        "id": "cat_beauty_and_personal_care",
+        "subcategories": [
+          {
+            "name": "Skincare",
+            "id": "subcat_skincare"
+          },
+          {
+            "name": "Makeup",
+            "id": "subcat_makeup"
+          },
+          {
+            "name": "Haircare",
+            "id": "subcat_haircare"
+          },
+          {
+            "name": "Fragrances",
+            "id": "subcat_fragrances"
+          },
+          {
+            "name": "Bath & Body",
+            "id": "subcat_bath_and_body"
+          },
+          {
+            "name": "Personal Care Appliances",
+            "id": "subcat_personal_care_appliances"
+          },
+          {
+            "name": "Men's Grooming",
+            "id": "subcat_mens_grooming"
+          },
+          {
+            "name": "Nail Care",
+            "id": "subcat_nail_care"
+          },
+          {
+            "name": "Beauty Tools & Accessories",
+            "id": "subcat_beauty_tools_and_accessories"
+          },
+          {
+            "name": "Beauty Services",
+            "id": "subcat_beauty_services"
+          },
+          {
+            "name": "Facial Cleansers",
+            "id": "subcat_facial_cleansers"
+          },
+          {
+            "name": "Lipsticks",
+            "id": "subcat_lipsticks"
+          },
+          {
+            "name": "Shampoos",
+            "id": "subcat_shampoos"
+          },
+          {
+            "name": "Perfumes",
+            "id": "subcat_perfumes"
+          },
+          {
+            "name": "Body Lotions",
+            "id": "subcat_body_lotions"
+          },
+          {
+            "name": "Hair Dryers",
+            "id": "subcat_hair_dryers"
+          },
+          {
+            "name": "Shaving Kits",
+            "id": "subcat_shaving_kits"
+          },
+          {
+            "name": "Nail Polishes",
+            "id": "subcat_nail_polishes"
+          },
+          {
+            "name": "Makeup Brushes",
+            "id": "subcat_makeup_brushes"
+          },
+          {
+            "name": "Spa Treatments",
+            "id": "subcat_spa_treatments"
+          }
+        ]
+      },
+      {
+        "name": "Toys & Games",
+        "id": "cat_toys_and_games",
+        "subcategories": [
+          {
+            "name": "Action Figures",
+            "id": "subcat_action_figures"
+          },
+          {
+            "name": "Board Games",
+            "id": "subcat_board_games"
+          },
+          {
+            "name": "Puzzles",
+            "id": "subcat_puzzles"
+          },
+          {
+            "name": "Video Games",
+            "id": "subcat_video_games"
+          },
+          {
+            "name": "Outdoor Play Equipment",
+            "id": "subcat_outdoor_play_equipment"
+          },
+          {
+            "name": "Educational Toys",
+            "id": "subcat_educational_toys"
+          },
+          {
+            "name": "Dolls & Dollhouses",
+            "id": "subcat_dolls_and_dollhouses"
+          },
+          {
+            "name": "Building Blocks & Sets",
+            "id": "subcat_building_blocks_and_sets"
+          },
+          {
+            "name": "Remote Control Toys",
+            "id": "subcat_remote_control_toys"
+          },
+          {
+            "name": "Arts & Crafts Supplies",
+            "id": "subcat_arts_and_crafts_supplies"
+          },
+          {
+            "name": "Superhero Action Figures",
+            "id": "subcat_superhero_action_figures"
+          },
+          {
+            "name": "Strategy Board Games",
+            "id": "subcat_strategy_board_games"
+          },
+          {
+            "name": "Jigsaw Puzzles",
+            "id": "subcat_jigsaw_puzzles"
+          },
+          {
+            "name": "PC Games",
+            "id": "subcat_pc_games"
+          },
+          {
+            "name": "Playground Swings",
+            "id": "subcat_playground_swings"
+          },
+          {
+            "name": "Science Kits",
+            "id": "subcat_science_kits"
+          },
+          {
+            "name": "Barbie Dolls",
+            "id": "subcat_barbie_dolls"
+          },
+          {
+            "name": "LEGO Sets",
+            "id": "subcat_lego_sets"
+          },
+          {
+            "name": "RC Cars",
+            "id": "subcat_rc_cars"
+          },
+          {
+            "name": "Painting Kits",
+            "id": "subcat_painting_kits"
+          }
+        ]
+      },
+      {
+        "name": "Health & Wellness",
+        "id": "cat_health_and_wellness",
+        "subcategories": [
+          {
+            "name": "Vitamins & Supplements",
+            "id": "subcat_vitamins_and_supplements"
+          },
+          {
+            "name": "Fitness Accessories",
+            "id": "subcat_fitness_accessories"
+          },
+          {
+            "name": "Personal Care Products",
+            "id": "subcat_personal_care_products"
+          },
+          {
+            "name": "Health Monitors & Devices",
+            "id": "subcat_health_monitors_and_devices"
+          },
+          {
+            "name": "Natural & Organic Products",
+            "id": "subcat_natural_and_organic_products"
+          },
+          {
+            "name": "Health Services",
+            "id": "subcat_health_services"
+          },
+          {
+            "name": "Weight Management Products",
+            "id": "subcat_weight_management_products"
+          },
+          {
+            "name": "Yoga & Meditation Products",
+            "id": "subcat_yoga_and_meditation_products"
+          },
+          {
+            "name": "Massage & Relaxation Equipment",
+            "id": "subcat_massage_and_relaxation_equipment"
+          },
+          {
+            "name": "Dietary & Nutrition Products",
+            "id": "subcat_dietary_and_nutrition_products"
+          },
+          {
+            "name": "Multivitamins",
+            "id": "subcat_multivitamins"
+          },
+          {
+            "name": "Resistance Bands",
+            "id": "subcat_resistance_bands"
+          },
+          {
+            "name": "Skin Moisturizers",
+            "id": "subcat_skin_moisturizers"
+          },
+          {
+            "name": "Blood Pressure Monitors",
+            "id": "subcat_blood_pressure_monitors"
+          },
+          {
+            "name": "Organic Foods",
+            "id": "subcat_organic_foods"
+          },
+          {
+            "name": "Health Checkups",
+            "id": "subcat_health_checkups"
+          },
+          {
+            "name": "Weight Scales",
+            "id": "subcat_weight_scales"
+          },
+          {
+            "name": "Yoga Mats",
+            "id": "subcat_yoga_mats"
+          },
+          {
+            "name": "Massage Chairs",
+            "id": "subcat_massage_chairs"
+          },
+          {
+            "name": "Protein Powders",
+            "id": "subcat_protein_powders"
+          }
+        ]
+      },
+      {
+        "name": "Home Improvement",
+        "id": "cat_home_improvement",
+        "subcategories": [
+          {
+            "name": "Tools & Hardware",
+            "id": "subcat_tools_and_hardware"
+          },
+          {
+            "name": "Building Materials",
+            "id": "subcat_building_materials"
+          },
+          {
+            "name": "Home Renovation Services",
+            "id": "subcat_home_renovation_services"
+          },
+          {
+            "name": "Electrical & Plumbing",
+            "id": "subcat_electrical_and_plumbing"
+          },
+          {
+            "name": "Painting & Decorating",
+            "id": "subcat_painting_and_decorating"
+          },
+          {
+            "name": "Flooring & Tiles",
+            "id": "subcat_flooring_and_tiles"
+          },
+          {
+            "name": "Heating & Cooling",
+            "id": "subcat_heating_and_cooling"
+          },
+          {
+            "name": "Windows & Doors",
+            "id": "subcat_windows_and_doors"
+          },
+          {
+            "name": "Roofing & Gutters",
+            "id": "subcat_roofing_and_gutters"
+          },
+          {
+            "name": "Home Security Systems",
+            "id": "subcat_home_security_systems"
+          },
+          {
+            "name": "Power Drills",
+            "id": "subcat_power_drills"
+          },
+          {
+            "name": "Bricks",
+            "id": "subcat_bricks"
+          },
+          {
+            "name": "Home Remodeling",
+            "id": "subcat_home_remodeling"
+          },
+          {
+            "name": "Light Fixtures",
+            "id": "subcat_light_fixtures"
+          },
+          {
+            "name": "Floor Tiles",
+            "id": "subcat_floor_tiles"
+          },
+          {
+            "name": "Air Conditioners",
+            "id": "subcat_air_conditioners"
+          },
+          {
+            "name": "Window Blinds",
+            "id": "subcat_window_blinds"
+          },
+          {
+            "name": "Roof Shingles",
+            "id": "subcat_roof_shingles"
+          },
+          {
+            "name": "Security Cameras",
+            "id": "subcat_security_cameras"
+          },
+          {
+            "name": "Toolkits",
+            "id": "subcat_toolkits"
+          }
+        ]
+      },
+      {
+        "name": "Pets & Animals",
+        "id": "cat_pets_and_animals",
+        "subcategories": [
+          {
+            "name": "Pet Food & Supplies",
+            "id": "subcat_pet_food_and_supplies"
+          },
+          {
+            "name": "Pet Accessories",
+            "id": "subcat_pet_accessories"
+          },
+          {
+            "name": "Pet Services",
+            "id": "subcat_pet_services"
+          },
+          {
+            "name": "Pets for Adoption",
+            "id": "subcat_pets_for_adoption"
+          },
+          {
+            "name": "Livestock",
+            "id": "subcat_livestock"
+          },
+          {
+            "name": "Pet Care & Grooming",
+            "id": "subcat_pet_care_and_grooming"
+          },
+          {
+            "name": "Pet Toys & Entertainment",
+            "id": "subcat_pet_toys_and_entertainment"
+          },
+          {
+            "name": "Pet Training & Behavior",
+            "id": "subcat_pet_training_and_behavior"
+          },
+          {
+            "name": "Pet Health & Wellness",
+            "id": "subcat_pet_health_and_wellness"
+          },
+          {
+            "name": "Pet Collars & Leashes",
+            "id": "subcat_pet_collars_and_leashes"
+          },
+          {
+            "name": "Dog Food",
+            "id": "subcat_dog_food"
+          },
+          {
+            "name": "Cat Toys",
+            "id": "subcat_cat_toys"
+          },
+          {
+            "name": "Pet Grooming Tools",
+            "id": "subcat_pet_grooming_tools"
+          },
+          {
+            "name": "Adoptable Dogs",
+            "id": "subcat_adoptable_dogs"
+          },
+          {
+            "name": "Horses",
+            "id": "subcat_horses"
+          },
+          {
+            "name": "Pet Bathing Services",
+            "id": "subcat_pet_bathing_services"
+          },
+          {
+            "name": "Interactive Cat Toys",
+            "id": "subcat_interactive_cat_toys"
+          },
+          {
+            "name": "Dog Training Classes",
+            "id": "subcat_dog_training_classes"
+          },
+          {
+            "name": "Veterinary Services",
+            "id": "subcat_veterinary_services"
+          },
+          {
+            "name": "Pet Harnesses",
+            "id": "subcat_pet_harnesses"
+          }
+        ]
+      },
+      {
+        "name": "Art & Collectibles",
+        "id": "cat_art_and_collectibles",
+        "subcategories": [
+          {
+            "name": "Paintings",
+            "id": "subcat_paintings"
+          },
+          {
+            "name": "Antiques",
+            "id": "subcat_antiques"
+          },
+          {
+            "name": "Collectible Items",
+            "id": "subcat_collectible_items"
+          },
+          {
+            "name": "Sculptures",
+            "id": "subcat_sculptures"
+          },
+          {
+            "name": "Fine Art Prints",
+            "id": "subcat_fine_art_prints"
+          },
+          {
+            "name": "Photography Art",
+            "id": "subcat_photography_art"
+          },
+          {
+            "name": "Pottery & Ceramics",
+            "id": "subcat_pottery_and_ceramics"
+          },
+          {
+            "name": "Vintage Collectibles",
+            "id": "subcat_vintage_collectibles"
+          },
+          {
+            "name": "Comic Books & Memorabilia",
+            "id": "subcat_comic_books_and_memorabilia"
+          },
+          {
+            "name": "Coins & Stamps",
+            "id": "subcat_coins_and_stamps"
+          },
+          {
+            "name": "Abstract Paintings",
+            "id": "subcat_abstract_paintings"
+          },
+          {
+            "name": "Antique Furniture",
+            "id": "subcat_antique_furniture"
+          },
+          {
+            "name": "Sports Memorabilia",
+            "id": "subcat_sports_memorabilia"
+          },
+          {
+            "name": "Bronze Sculptures",
+            "id": "subcat_bronze_sculptures"
+          },
+          {
+            "name": "Landscape Prints",
+            "id": "subcat_landscape_prints"
+          },
+          {
+            "name": "Black & White Photography",
+            "id": "subcat_black_and_white_photography"
+          },
+          {
+            "name": "Handmade Pottery",
+            "id": "subcat_handmade_pottery"
+          },
+          {
+            "name": "Vintage Posters",
+            "id": "subcat_vintage_posters"
+          },
+          {
+            "name": "Superhero Comics",
+            "id": "subcat_superhero_comics"
+          },
+          {
+            "name": "Rare Stamps",
+            "id": "subcat_rare_stamps"
+          }
+        ]
+      },
+      {
+        "name": "Food & Beverages",
+        "id": "cat_food_and_beverages",
+        "subcategories": [
+          {
+            "name": "Groceries",
+            "id": "subcat_groceries"
+          },
+          {
+            "name": "Beverages",
+            "id": "subcat_beverages"
+          },
+          {
+            "name": "Snacks & Sweets",
+            "id": "subcat_snacks_and_sweets"
+          },
+          {
+            "name": "Gourmet Foods",
+            "id": "subcat_gourmet_foods"
+          },
+          {
+            "name": "Cooking Ingredients",
+            "id": "subcat_cooking_ingredients"
+          },
+          {
+            "name": "Recipes & Cookbooks",
+            "id": "subcat_recipes_and_cookbooks"
+          },
+          {
+            "name": "Ready-to-Eat Meals",
+            "id": "subcat_ready_to_eat_meals"
+          },
+          {
+            "name": "Dietary & Specialty Foods",
+            "id": "subcat_dietary_and_specialty_foods"
+          },
+          {
+            "name": "Desserts & Bakery Items",
+            "id": "subcat_desserts_and_bakery_items"
+          },
+          {
+            "name": "Health & Organic Foods",
+            "id": "subcat_health_and_organic_foods"
+          },
+          {
+            "name": "Fresh Fruits",
+            "id": "subcat_fresh_fruits"
+          },
+          {
+            "name": "Soda & Soft Drinks",
+            "id": "subcat_soda_and_soft_drinks"
+          },
+          {
+            "name": "Chocolates",
+            "id": "subcat_chocolates"
+          },
+          {
+            "name": "Fine Wines",
+            "id": "subcat_fine_wines"
+          },
+          {
+            "name": "Olive Oil",
+            "id": "subcat_olive_oil"
+          },
+          {
+            "name": "Cooking Books",
+            "id": "subcat_cooking_books"
+          },
+          {
+            "name": "Frozen Dinners",
+            "id": "subcat_frozen_dinners"
+          },
+          {
+            "name": "Gluten-Free Products",
+            "id": "subcat_gluten_free_products"
+          },
+          {
+            "name": "Cakes",
+            "id": "subcat_cakes"
+          },
+          {
+            "name": "Green Tea",
+            "id": "subcat_green_tea"
+          }
+        ]
+      },
+      {
+        "name": "Travel & Vacation",
+        "id": "cat_travel_and_vacation",
+        "subcategories": [
+          {
+            "name": "Hotel Bookings",
+            "id": "subcat_hotel_bookings"
+          },
+          {
+            "name": "Vacation Packages",
+            "id": "subcat_vacation_packages"
+          },
+          {
+            "name": "Travel Accessories",
+            "id": "subcat_travel_accessories"
+          },
+          {
+            "name": "Car Rentals",
+            "id": "subcat_car_rentals"
+          },
+          {
+            "name": "Tourist Attractions",
+            "id": "subcat_tourist_attractions"
+          },
+          {
+            "name": "Travel Guides",
+            "id": "subcat_travel_guides"
+          },
+          {
+            "name": "Luggage & Suitcases",
+            "id": "subcat_luggage_and_suitcases"
+          },
+          {
+            "name": "Cruise Packages",
+            "id": "subcat_cruise_packages"
+          },
+          {
+            "name": "Adventure Travel",
+            "id": "subcat_adventure_travel"
+          },
+          {
+            "name": "Camping & Outdoor Trips",
+            "id": "subcat_camping_and_outdoor_trips"
+          },
+          {
+            "name": "Luxury Hotels",
+            "id": "subcat_luxury_hotels"
+          },
+          {
+            "name": "Beach Resorts",
+            "id": "subcat_beach_resorts"
+          },
+          {
+            "name": "Travel Adapters",
+            "id": "subcat_travel_adapters"
+          },
+          {
+            "name": "Luxury Cars",
+            "id": "subcat_luxury_cars"
+          },
+          {
+            "name": "Historical Sites",
+            "id": "subcat_historical_sites"
+          },
+          {
+            "name": "City Guides",
+            "id": "subcat_city_guides"
+          },
+          {
+            "name": "Travel Backpacks",
+            "id": "subcat_travel_backpacks"
+          },
+          {
+            "name": "Caribbean Cruises",
+            "id": "subcat_caribbean_cruises"
+          },
+          {
+            "name": "Hiking Expeditions",
+            "id": "subcat_hiking_expeditions"
+          },
+          {
+            "name": "Family Camping",
+            "id": "subcat_family_camping"
+          }
+        ]
+      },
+      {
+        "name": "Business & Services",
+        "id": "cat_business_and_services",
+        "subcategories": [
+          {
+            "name": "Office Supplies",
+            "id": "subcat_office_supplies"
+          },
+          {
+            "name": "Professional Services",
+            "id": "subcat_professional_services"
+          },
+          {
+            "name": "Business Equipment",
+            "id": "subcat_business_equipment"
+          },
+          {
+            "name": "Marketing & Advertising",
+            "id": "subcat_marketing_and_advertising"
+          },
+          {
+            "name": "Financial Services",
+            "id": "subcat_financial_services"
+          },
+          {
+            "name": "Business Opportunities",
+            "id": "subcat_business_opportunities"
+          },
+          {
+            "name": "Business Consulting",
+            "id": "subcat_business_consulting"
+          },
+          {
+            "name": "Legal Services",
+            "id": "subcat_legal_services"
+          },
+          {
+            "name": "IT & Web Services",
+            "id": "subcat_it_and_web_services"
+          },
+          {
+            "name": "Printing & Copying Services",
+            "id": "subcat_printing_and_copying_services"
+          },
+          {
+            "name": "Stationery",
+            "id": "subcat_stationery"
+          },
+          {
+            "name": "Accounting Services",
+            "id": "subcat_accounting_services"
+          },
+          {
+            "name": "Office Printers",
+            "id": "subcat_office_printers"
+          },
+          {
+            "name": "Online Marketing",
+            "id": "subcat_online_marketing"
+          },
+          {
+            "name": "Business Loans",
+            "id": "subcat_business_loans"
+          },
+          {
+            "name": "Franchise Opportunities",
+            "id": "subcat_franchise_opportunities"
+          },
+          {
+            "name": "Management Consulting",
+            "id": "subcat_management_consulting"
+          },
+          {
+            "name": "Legal Advice",
+            "id": "subcat_legal_advice"
+          },
+          {
+            "name": "Web Development",
+            "id": "subcat_web_development"
+          },
+          {
+            "name": "Business Card Printing",
+            "id": "subcat_business_card_printing"
+          }
+        ]
+      }
+    ]
+  }
+  
